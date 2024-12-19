@@ -11,14 +11,14 @@
 		{
 			"id": 2,
 			"name": "Bolognese Spaghetti + Beef/Chicken/Goat Meat",
-			"price": 6500
+			"price": "6,500"
 		}
 	],
 	"rice": [
 		{
 			"id": 1,
 			"name": "Plain rice & Banga+Beef/Chicken/G.meat",
-			"price": 8000
+			"price": "8,000"
 		},
 		{ "id": 2, "name": "Plain rice & stew+Beef/Chicken/G.meat", "price": "7,000" },
 		{ "id": 3, "name": "Fried Rice + Beef/Chicken/G.meat", "price": "7,000" },

@@ -46,9 +46,9 @@ const MenuPage = () => {
 					<p className="lg:text-[64px] text-[32px] font-extrabold">
 						SEE OUR MENU
 					</p>
-					<p className="lg:text-[40px] text-[20px] font-medium text-[#EFBD4C]">
+					{/* <p className="lg:text-[40px] text-[20px] font-medium text-[#EFBD4C]">
 						All Meals Attract 7.5% VAT
-					</p>
+					</p> */}
 				</div>
 				<p
 					onClick={copyToClipboard}
