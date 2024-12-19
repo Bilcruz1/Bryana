@@ -147,7 +147,7 @@ export default function Nav() {
 									}
 								/>
 							</a>
-							<p>+234 803 747 2400, +234 902 071 7574</p>
+							<p>+234 902 071 7574, +234 902 293 4089</p>
 						</div>
 						<div className="flex gap-[8px] items-center">
 							<a href="#">
