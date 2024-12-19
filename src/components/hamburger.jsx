@@ -165,7 +165,7 @@ function Hamburger({ setIsOpen }) {
 									/>
 								</a>
 								<div className="text-left  text-[14px] font-light leading-[24px]  ">
-									<p>+234 902 071 7574</p>
+									<p>+234 803 747 2400</p>
 									<p>+234 902 293 4089</p>
 								</div>
 							</div>

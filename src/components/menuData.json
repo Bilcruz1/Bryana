@@ -1,13 +1,13 @@
 {
 	"noddles": [
-		{ "id": 1, "name": "Noodles + Fried egg/Boiled egg", "price": 3000 },
-		{ "id": 2, "name": "Noodles + Chicken/Beef/G. Meat", "price": 6000 },
-		{ "id": 3, "name": "Noodles + Fried egg/Boiled egg", "price": 6500 },
-		{ "id": 4, "name": "Noodles + Chicken/Beef/G. Meat", "price": 8000 }
+		{ "id": 1, "name": "Noodles + Fried egg/Boiled egg", "price": "3,000" },
+		{ "id": 2, "name": "Noodles + Chicken/Beef/G. Meat", "price": "6,000" },
+		{ "id": 3, "name": "Noodles + Fried egg/Boiled egg", "price": "6,500" },
+		{ "id": 4, "name": "Noodles + Chicken/Beef/G. Meat", "price": "8,000" }
 	],
 
 	"fries": [
-		{ "id": 1, "name": "Fried yam/Boiled yam+egg sauce", "price": 6000 },
+		{ "id": 1, "name": "Fried yam/Boiled yam+egg sauce", "price": "6,000" },
 		{
 			"id": 2,
 			"name": "Bolognese Spaghetti + Beef/Chicken/Goat Meat",
@@ -20,15 +20,15 @@
 			"name": "Plain rice & Banga+Beef/Chicken/G.meat",
 			"price": 8000
 		},
-		{ "id": 2, "name": "Plain rice & stew+Beef/Chicken/G.meat", "price": 7000 },
-		{ "id": 3, "name": "Fried Rice + Beef/Chicken/G.meat", "price": 7000 },
-		{ "id": 4, "name": "Jollof Rice + Beef/Chicken/G.meat", "price": 7000 },
-		{ "id": 5, "name": "Coconut rice + Beef/Chicken/G.meat", "price": 7000 },
-		{ "id": 6, "name": "Native rice + Beef/Chicken/G.meat", "price": 7000 },
+		{ "id": 2, "name": "Plain rice & stew+Beef/Chicken/G.meat", "price": "7,000" },
+		{ "id": 3, "name": "Fried Rice + Beef/Chicken/G.meat", "price": "7,000" },
+		{ "id": 4, "name": "Jollof Rice + Beef/Chicken/G.meat", "price": "7,000" },
+		{ "id": 5, "name": "Coconut rice + Beef/Chicken/G.meat", "price": "7,000" },
+		{ "id": 6, "name": "Native rice + Beef/Chicken/G.meat", "price": "7,000" },
 		{
 			"id": 7,
 			"name": "Chinese rice+Beef/Chicken/G.meat/prawns/Crabs",
-			"price": 12000
+			"price": "1,2000"
 		}
 	],
 
@@ -36,156 +36,156 @@
 		{
 			"id": 1,
 			"name": "Afang + semo/wheat/poundo/Eba + Beef/Chicken/G.meat",
-			"price": 8000
+			"price": "8,000"
 		},
 		{
 			"id": 2,
 			"name": "Vegetable + semo/wheat/poundo/Eba + Beef/Chicken/G.meat",
-			"price": 8000
+			"price": "8,000"
 		},
 		{
 			"id": 3,
 			"name": "Bitter leaf + semo/wheat/poundo/Eba + Beef/Chicken/G.meat",
-			"price": 8000
+			"price": "8,000"
 		},
 		{
 			"id": 4,
 			"name": "Oha + semo/wheat/poundo/Eba + Beef/Chicken/G.meat",
-			"price": 8000
+			"price": "8,000"
 		},
 		{
 			"id": 5,
 			"name": "White soup + semo/wheat/poundo/Eba + Beef/Chicken/G.meat",
-			"price": 8000
+			"price": "8,000"
 		},
 		{
 			"id": 6,
 			"name": "Okro + semo/wheat/poundo/Eba + Beef/Chicken/G.meat",
-			"price": 8000
+			"price": "8,000"
 		},
 		{
 			"id": 7,
 			"name": "Egusi + semo/wheat/poundo/Eba + Beef/Chicken/G.meat",
-			"price": 8000
+			"price": "8,000"
 		},
 		{
 			"id": 8,
 			"name": "Ogbono + semo/wheat/poundo/Eba + Beef/Chicken/G.meat",
-			"price": 8000
+			"price": "8,000"
 		},
 		{
 			"id": 9,
 			"name": "Banga soup + semo/wheat/poundo/Eba + Beef/Chicken/G.meat",
-			"price": 8000
+			"price": "8,000"
 		},
 		{
 			"id": 10,
 			"name": "Native soup + semo/wheat/poundo/Eba + Beef/Chicken/G.meat",
-			"price": 8000
+			"price": "8,000"
 		}
 	],
 
 	"small Bites": [
-		{ "id": 1, "name": "Peppered garnish beef", "price": 3000 },
-		{ "id": 2, "name": "Peppered garnish chicken", "price": 3000 },
-		{ "id": 3, "name": "Peppered garnish turkey", "price": 4500 },
-		{ "id": 4, "name": "Peppered garnish fish", "price": 4000 },
-		{ "id": 5, "name": "Peppered garnish goat meat", "price": 3000 }
+		{ "id": 1, "name": "Peppered garnish beef", "price": "3,000" },
+		{ "id": 2, "name": "Peppered garnish chicken", "price": "3,000" },
+		{ "id": 3, "name": "Peppered garnish turkey", "price": "4,500" },
+		{ "id": 4, "name": "Peppered garnish fish", "price": "4,000" },
+		{ "id": 5, "name": "Peppered garnish goat meat", "price": "3,000" }
 	],
 	"sea Foods": [
-		{ "id": 1, "name": "Sea food okro", "price": 8000 },
-		{ "id": 2, "name": "Fisherman soup", "price": 8000 }
+		{ "id": 1, "name": "Sea food okro", "price": "8,000" },
+		{ "id": 2, "name": "Fisherman soup", "price": "8,000" }
 	],
 	"pepper Soups": [
-		{ "id": 1, "name": "Cat fish pepper soup", "price": 15000 },
-		{ "id": 2, "name": "Portion cat fish pepper soup", "price": 5000 },
-		{ "id": 3, "name": "Croacker fish pepper soup", "price": 18000 },
-		{ "id": 4, "name": "Portion croacker fish pepper soup", "price": 7000 },
-		{ "id": 5, "name": "Turkey pepper soup", "price": 6000 },
-		{ "id": 6, "name": "Chicken pepper soup", "price": 4500 },
-		{ "id": 7, "name": "Goat meat pepper soup", "price": 4500 },
-		{ "id": 8, "name": "Beef pepper soup", "price": 4500 },
-		{ "id": 9, "name": "Cow leg pepper soup", "price": 6000 },
-		{ "id": 10, "name": "Cow head pepper soup", "price": 6000 }
+		{ "id": 1, "name": "Cat fish pepper soup", "price": "15,000" },
+		{ "id": 2, "name": "Portion cat fish pepper soup", "price": "5,000" },
+		{ "id": 3, "name": "Croacker fish pepper soup", "price": "18,000" },
+		{ "id": 4, "name": "Portion croacker fish pepper soup", "price": "7,000" },
+		{ "id": 5, "name": "Turkey pepper soup", "price": "6,000" },
+		{ "id": 6, "name": "Chicken pepper soup", "price": "4,500" },
+		{ "id": 7, "name": "Goat meat pepper soup", "price": "4,500" },
+		{ "id": 8, "name": "Beef pepper soup", "price": "4,500" },
+		{ "id": 9, "name": "Cow leg pepper soup", "price": "6,000" },
+		{ "id": 10, "name": "Cow head pepper soup", "price": "6,000" }
 	],
 	"barbeques": [
-		{ "id": 1, "name": "Cat fish bbq", "price": 15000 },
-		{ "id": 2, "name": "Croacker fish bbq", "price": 18000 }
+		{ "id": 1, "name": "Cat fish bbq", "price": "15,000" },
+		{ "id": 2, "name": "Croacker fish bbq", "price": "18,000" }
 	],
 	"native Delicacies": [
-		{ "id": 1, "name": "Isi ewi", "price": 8000 },
-		{ "id": 2, "name": "Nkwobi", "price": 4000 }
+		{ "id": 1, "name": "Isi ewi", "price": "8,000" },
+		{ "id": 2, "name": "Nkwobi", "price": "4,000" }
 	],
 	"extras": [
-		{ "id": 1, "name": "Extras egusi soup", "price": 2500 },
-		{ "id": 2, "name": "Extra swallow", "price": 2000 },
-		{ "id": 3, "name": "Extra vegetable", "price": 2500 },
-		{ "id": 4, "name": "Extra ogbono", "price": 2500 },
-		{ "id": 5, "name": "Extra plain rice", "price": 2000 },
-		{ "id": 6, "name": "Extra Jollof rice", "price": 3000 },
-		{ "id": 7, "name": "Extra fried rice", "price": 3000 },
-		{ "id": 8, "name": "Extra beef/G.meat/chicken", "price": 3300 }
+		{ "id": 1, "name": "Extras egusi soup", "price": "2,500" },
+		{ "id": 2, "name": "Extra swallow", "price": "2,000" },
+		{ "id": 3, "name": "Extra vegetable", "price": "2,500" },
+		{ "id": 4, "name": "Extra ogbono", "price": "2,500" },
+		{ "id": 5, "name": "Extra plain rice", "price": "2,000" },
+		{ "id": 6, "name": "Extra Jollof rice", "price": "3,000" },
+		{ "id": 7, "name": "Extra fried rice", "price": "3,000" },
+		{ "id": 8, "name": "Extra beef/G.meat/chicken", "price": "3,300" }
 	],
 	"drinks": [
-		{ "id": 1, "name": "Small campari", "price": 10000 },
-		{ "id": 2, "name": "Medium campari", "price": 25000 },
-		{ "id": 3, "name": "Big campari", "price": 30000 },
-		{ "id": 4, "name": "Chateau Vartely", "price": 15000 },
-		{ "id": 5, "name": "Carlo Rossi", "price": 15000 },
-		{ "id": 6, "name": "Four cousins", "price": 15000 },
-		{ "id": 7, "name": "Drostdu Hof", "price": 15000 },
-		{ "id": 8, "name": "Johnnie Walker", "price": 25000 },
-		{ "id": 9, "name": "4th Street", "price": 12000 },
-		{ "id": 10, "name": "Baileys delight", "price": 15000 },
-		{ "id": 11, "name": "Baileys big", "price": 35000 },
-		{ "id": 12, "name": "Origin bitters big", "price": 8000 },
-		{ "id": 13, "name": "Origin plastic", "price": 2000 },
-		{ "id": 14, "name": "Andre", "price": 15000 },
-		{ "id": 15, "name": "Jameson green", "price": 35000 },
-		{ "id": 16, "name": "Jameson black", "price": 50000 },
-		{ "id": 17, "name": "Chamdor", "price": 15000 },
-		{ "id": 18, "name": "Glenfiddich 18yrs", "price": 130000 },
-		{ "id": 19, "name": "Glenfiddich 15yrs", "price": 100000 },
-		{ "id": 20, "name": "Gordon's dry gin big", "price": 8000 },
-		{ "id": 21, "name": "Gordon's dry gin small", "price": 3500 },
-		{ "id": 22, "name": "Smirnoff xi small", "price": 3500 },
-		{ "id": 23, "name": "Smirnoff xi big", "price": 15000 },
-		{ "id": 24, "name": "Hennessy vs", "price": 70000 },
-		{ "id": 25, "name": "Hennessy vsop", "price": 120000 },
-		{ "id": 26, "name": "William Lawson", "price": 20000 },
-		{ "id": 27, "name": "Asconi", "price": 15000 },
-		{ "id": 28, "name": "Veuve de verney", "price": 15000 },
-		{ "id": 29, "name": "Olmeca tequila", "price": 35000 },
-		{ "id": 30, "name": "Black bullet", "price": 2500 },
-		{ "id": 31, "name": "Hollandia", "price": 3000 },
-		{ "id": 32, "name": "Chivita", "price": 2700 },
-		{ "id": 33, "name": "Chi-exotic", "price": 2700 },
-		{ "id": 34, "name": "Water", "price": 500 },
-		{ "id": 35, "name": "Castle lite", "price": 1400 },
-		{ "id": 36, "name": "Heineken", "price": 1500 },
-		{ "id": 37, "name": "Trophy", "price": 1200 },
-		{ "id": 38, "name": "Desperados", "price": 1200 },
-		{ "id": 39, "name": "Budweiser", "price": 1400 },
-		{ "id": 40, "name": "Trophy stout", "price": 1200 },
-		{ "id": 41, "name": "Life", "price": 1200 },
-		{ "id": 42, "name": "Tiger", "price": 1200 },
-		{ "id": 43, "name": "Amstel", "price": 800 },
-		{ "id": 44, "name": "Goldberg", "price": 1200 },
-		{ "id": 45, "name": "Fayrouz", "price": 700 },
-		{ "id": 46, "name": "Star radler", "price": 1200 },
-		{ "id": 47, "name": "Legend", "price": 1400 },
-		{ "id": 48, "name": "Star", "price": 1200 },
-		{ "id": 49, "name": "Climax", "price": 1500 },
-		{ "id": 50, "name": "Gulder", "price": 1200 },
-		{ "id": 51, "name": "Hero", "price": 1200 },
-		{ "id": 52, "name": "Big stout", "price": 1500 },
-		{ "id": 53, "name": "Small stout", "price": 1200 },
-		{ "id": 54, "name": "Big Smirnoff ice", "price": 1400 },
-		{ "id": 55, "name": "Small ice", "price": 1200 },
-		{ "id": 56, "name": "Smirnoff double black", "price": 1200 },
-		{ "id": 57, "name": "Oring beer", "price": 1400 },
-		{ "id": 58, "name": "Coke", "price": 600 },
-		{ "id": 59, "name": "Fanta", "price": 600 },
-		{ "id": 60, "name": "Sprite", "price": 600 }
+		{ "id": 1, "name": "Small campari", "price": "10,000" },
+		{ "id": 2, "name": "Medium campari", "price": "25,000" },
+		{ "id": 3, "name": "Big campari", "price": "30,000" },
+		{ "id": 4, "name": "Chateau Vartely", "price": "15,000" },
+		{ "id": 5, "name": "Carlo Rossi", "price": "15,000" },
+		{ "id": 6, "name": "Four cousins", "price": "15,000" },
+		{ "id": 7, "name": "Drostdu Hof", "price": "15,000" },
+		{ "id": 8, "name": "Johnnie Walker", "price": "25,000" },
+		{ "id": 9, "name": "4th Street", "price": "12,000" },
+		{ "id": 10, "name": "Baileys delight", "price": "15,000" },
+		{ "id": 11, "name": "Baileys big", "price": "35,000" },
+		{ "id": 12, "name": "Origin bitters big", "price": "8,000" },
+		{ "id": 13, "name": "Origin plastic", "price": "2,000" },
+		{ "id": 14, "name": "Andre", "price": "15,000" },
+		{ "id": 15, "name": "Jameson green", "price": "35,000" },
+		{ "id": 16, "name": "Jameson black", "price": "50,000" },
+		{ "id": 17, "name": "Chamdor", "price": "15,000" },
+		{ "id": 18, "name": "Glenfiddich 18yrs", "price": "130,000" },
+		{ "id": 19, "name": "Glenfiddich 15yrs", "price": "100,000" },
+		{ "id": 20, "name": "Gordon's dry gin big", "price": "8,000" },
+		{ "id": 21, "name": "Gordon's dry gin small", "price": "3,500" },
+		{ "id": 22, "name": "Smirnoff xi small", "price": "3,500" },
+		{ "id": 23, "name": "Smirnoff xi big", "price": "15,000" },
+		{ "id": 24, "name": "Hennessy vs", "price": "70,000" },
+		{ "id": 25, "name": "Hennessy vsop", "price": "120,000" },
+		{ "id": 26, "name": "William Lawson", "price": "20,000" },
+		{ "id": 27, "name": "Asconi", "price": "15,000" },
+		{ "id": 28, "name": "Veuve de verney", "price": "15,000" },
+		{ "id": 29, "name": "Olmeca tequila", "price": "35,000" },
+		{ "id": 30, "name": "Black bullet", "price": "2,500" },
+		{ "id": 31, "name": "Hollandia", "price": "3,000" },
+		{ "id": 32, "name": "Chivita", "price": "2,700" },
+		{ "id": 33, "name": "Chi-exotic", "price": "2,700" },
+		{ "id": 34, "name": "Water", "price": "500" },
+		{ "id": 35, "name": "Castle lite", "price": "1,400" },
+		{ "id": 36, "name": "Heineken", "price": "1,500" },
+		{ "id": 37, "name": "Trophy", "price": "1,200" },
+		{ "id": 38, "name": "Desperados", "price": "1,200" },
+		{ "id": 39, "name": "Budweiser", "price": "1,400" },
+		{ "id": 40, "name": "Trophy stout", "price": "1,200" },
+		{ "id": 41, "name": "Life", "price": "1,200" },
+		{ "id": 42, "name": "Tiger", "price": "1,200" },
+		{ "id": 43, "name": "Amstel", "price": "800" },
+		{ "id": 44, "name": "Goldberg", "price": "1,200" },
+		{ "id": 45, "name": "Fayrouz", "price": "700" },
+		{ "id": 46, "name": "Star radler", "price": "1,200" },
+		{ "id": 47, "name": "Legend", "price": "1,400" },
+		{ "id": 48, "name": "Star", "price": "1,200" },
+		{ "id": 49, "name": "Climax", "price": "1,500" },
+		{ "id": 50, "name": "Gulder", "price": "1,200" },
+		{ "id": 51, "name": "Hero", "price": "1,200" },
+		{ "id": 52, "name": "Big stout", "price": "1,500" },
+		{ "id": 53, "name": "Small stout", "price": "1,200" },
+		{ "id": 54, "name": "Big Smirnoff ice", "price": "1,400" },
+		{ "id": 55, "name": "Small ice", "price": "1,200" },
+		{ "id": 56, "name": "Smirnoff double black", "price": "1,200" },
+		{ "id": 57, "name": "Oring beer", "price": "1,400" },
+		{ "id": 58, "name": "Coke", "price": "600" },
+		{ "id": 59, "name": "Fanta", "price": "600" },
+		{ "id": 60, "name": "Sprite", "price": "600" }
 	]
 }
